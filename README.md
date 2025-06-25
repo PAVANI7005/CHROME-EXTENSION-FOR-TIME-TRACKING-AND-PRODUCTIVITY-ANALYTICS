@@ -122,6 +122,9 @@ Export CSV reports for productivity reviews
 
 📄 License
 Licensed under the ISC License. Feel free to fork and extend!
+Output:
+
+![Image](https://github.com/user-attachments/assets/d5edb009-2d97-43ca-b2a4-647a4765fbe3)
 
 🧠 Contributing
 Pull requests are welcome. Please open an issue to discuss your feature before submitting.
